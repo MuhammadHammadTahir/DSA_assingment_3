@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1701918152 source:d:\dsa  projects\dsa_assignment_03\main.cpp
+	<iostream>
+	<string>
+	<BinaryTree.h>
+	<ExpressionTree.h>
+	<BST.h>
+
+1701883308 source:d:\dsa  projects\dsa_assignment_03\src\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+	<queue>
+
+1701819077 d:\dsa  projects\dsa_assignment_03\include\binarytree.h
+
+1701822606 source:d:\dsa  projects\dsa_assignment_03\src\binarytree_impl.cpp
+	<iostream>
+	"BinaryTree.cpp"
+
+1701883308 d:\dsa  projects\dsa_assignment_03\src\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+	<queue>
+
+1701880409 source:d:\dsa  projects\dsa_assignment_03\src\expressiontree.cpp
+	"ExpressionTree.h"
+	<stack>
+	<string>
+
+1701949228 d:\dsa  projects\dsa_assignment_03\include\expressiontree.h
+	<BinaryTree.h>
+	<string>
+
+1701883262 source:d:\dsa  projects\dsa_assignment_03\src\bst_impl.cpp
+	<iostream>
+	"BST.cpp"
+
+1701917906 d:\dsa  projects\dsa_assignment_03\src\bst.cpp
+	"BST.h"
+	<iostream>
+
+1701884182 d:\dsa  projects\dsa_assignment_03\include\bst.h
+	<BinaryTree.h>
+
+1701917906 source:d:\dsa  projects\dsa_assignment_03\src\bst.cpp
+	"BST.h"
+	<iostream>
+
